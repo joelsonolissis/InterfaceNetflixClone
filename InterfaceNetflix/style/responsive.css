@@ -1,0 +1,19 @@
+@media screen  and (max-width: 700px){
+
+header .container{
+display: flex;
+flex-direction: column;
+}
+.botao{
+    margin-top: 5px;
+    width: 190px;
+    height: 60px;
+}
+}
+@media screen and (min-with:1000px){
+    .descrição{
+        width: 50%;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-size: 14px;
+    }
+}
